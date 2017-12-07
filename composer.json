@@ -1,5 +1,5 @@
 {
-    "name": "hiqdev/yii2-google-analytics",
+    "name": "ivy47/yii2-google-analytics",
     "type": "yii2-extension",
     "description": "Google Analytics tracking widget for Yii2 applications",
     "keywords": [
