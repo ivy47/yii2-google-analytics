@@ -12,7 +12,7 @@ namespace hiqdev\yii2\GoogleAnalytics;
 
 use Yii;
 
-class CodeBuilder extends \yii\base\Object
+class CodeBuilder extends \yii\base\BaseObject
 {
     public $id;
 
